@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rotterdam's courant</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57688</idno><idno type="EEBO-CITATION">99832876</idno>
+  <idno type="VID">37351</idno>
+  <idno type="EEBO-PROQUEST">2240960611</idno>
+  
+            <idno type="STC">Wing R2005B</idno>
+            <idno type="STC">ESTC P2770</idno>
+            <idno type="PROQUEST">99832876</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832876e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37351)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2152:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rotterdam's courant</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Rotterdam, printed by Goddæus, June 7. N. Stylo, 1680. &amp; reprinted at London by B. Harris at the Royal-Exchange,</publisher>
+                  <pubPlace>[[London]</pubPlace>
+                  <date>[1680?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; publication date conjectured by Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Europe --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37351:1"/>
+            <head>The Rotterdam's Courant.</head>
+            <div type="part">
+               <head>FRANCE.</head>
+               <div type="section">
+                  <opener>
+                     <dateline>Paris, <date>May 30. Novo Stylo.</date>
+                     </dateline>
+                  </opener>
+                  <p>HIS Majesties Journey heretofore so much talk'd of, is now certain, though it is said to be sooner than formerly. His Majesty being ex<g ref="char:EOLhyphen"/>pected at St <hi>Germain</hi> about the end of <hi>June,</hi> but whither that Journey is intended upon the 12 of <hi>July</hi> is not certainly known; some say to <hi>Flanders,</hi> and others think it is to the <hi>Elsas</hi> and <hi>Stratsburgh.</hi> Prince <hi>William</hi> of <hi>Furstenburgh</hi> having spent some time with his Majesty, has taken his leave of the Court and is a going to the Land of <hi>Luyk.</hi> The Ambassador of <hi>Savoy</hi> did yesterday in a par<g ref="char:EOLhyphen"/>ticular Audience, make known to the King, that the Duke his Master had now com<g ref="char:EOLhyphen"/>pleated the 14 Year of his age, and had un<g ref="char:EOLhyphen"/>dertaken the Government of that Countrey, under good hopes of being able to manage the same under the enjoyment of the espe<g ref="char:EOLhyphen"/>cial Favour and the Protection of his Maje<g ref="char:EOLhyphen"/>sty, and to that purpose should endeavour to acquire a good understanding and Corres<g ref="char:EOLhyphen"/>pondency with his Majesty; Whereupon he received an answer of very Civil Terms, in relation to those affairs.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>GERMANY</head>
+               <div type="section">
+                  <opener>
+                     <dateline>Prague, <date>May 22.</date>
+                     </dateline>
+                  </opener>
+                  <p>HIS Imperial Majesty is departed hence to <hi>Prandeys,</hi> with a small re<g ref="char:EOLhyphen"/>tinue, with an intent to retire shortly to <hi>Lint,</hi> by reason of the contagious dis<g ref="char:EOLhyphen"/>eases now prevalent in <hi>Bohemia,</hi> and from thence against the winter to Regensburgh, to accomplish the Deliberations of the Diet, and to draw the same to a Conclusion, which Assembly hath continued for the space of three and Twenty years or upward. The young Count <hi>Serini</hi> hath had his first examination before the Court Chancellor, and being remanded to the <hi>White Tower,</hi> it is generally supposed that he is convicted over a treasonable Correspondence with <hi>Teckely,</hi> or more assuredly with some certain Mini<g ref="char:EOLhyphen"/>ster. The Earl of <hi>Sixendorp</hi> now perceiving that he cannot obtain the favour of his Im<g ref="char:EOLhyphen"/>perial Majesty, is fully resolved to defend himself by Cours of Law, for which reason the number of his Committee, and the Lear<g ref="char:EOLhyphen"/>ned in the Law are augmented.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Landauw, <date>May 23.</date>
+                     </dateline>
+                  </opener>
+                  <p>Monsieur de <hi>Monclar</hi> having the 21. in<g ref="char:EOLhyphen"/>stant passed through <hi>Stratsburgh,</hi> is this day here Arrived, accompanied with many Troops, which gives no small suspition to these parts, as also the neighbouring Coun<g ref="char:EOLhyphen"/>treys, being perpetually under Alarm at the Martches &amp; Counter Martches of the French, each expecting the first assault; These of Stratsburgh, Philipsburgh, Spier &amp; Worms, being in great emulation who should best un<g ref="char:EOLhyphen"/>derstand the privacy of the French Designs: One makes it out that it is for Stratsburgh a<g ref="char:EOLhyphen"/>gainst the Imperial Territories, another for Philipsburgh against Frankelant a third to fortify Worms and Spider, and so to make the Rhyne a boundary Limit &amp; Land-mark.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Regensburgh, <date>May 23.</date>
+                     </dateline>
+                  </opener>
+                  <p>The Consult on that Point, concerning the Mint continues still, and proves a great Let to other things of Moment, and of like Weight; Though 'tis hop'd that we shall hear of a speedy determination of the same, and after a full debate of it and other affairs, to conclude the Diet with security of the Kingdome.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Basil, <date>May 25.</date>
+                     </dateline>
+                  </opener>
+                  <p>Although we dayly see the mighty pre<g ref="char:EOLhyphen"/>parations of the <hi>French,</hi> for War, and other great designs, yet are we not able to give any firmer advice than only what we guess, and without any certainty conjec<g ref="char:EOLhyphen"/>ture, while they speak very diversly among themselves; and by reason it is forbidden to Mow any Grass, near Hunningen, it is thence supposed that an Army is shortly to come thither, and that three Regiments of Horse are already dispatching thither by <hi>Saint Maries.</hi> The Post between <hi>Basil</hi> and <hi>Stratsburgh</hi> is now totally interrupted, and the Stages removed to the East side of the <hi>Rhine,</hi> by reason the <hi>French</hi> do pretend that the Letters should go through their hands at Brisac &amp; Hunningen, and be taxed, which hath hugely advanced the Post-mony.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Frankford, <date>May 26.</date>
+                     </dateline>
+                  </opener>
+                  <p>Count <hi>Starrenburgh,</hi> Commander of <hi>Philipsburgh,</hi> hath fignified to the Earl of <hi>Hohenlohe</hi> the Emperours Commissioners in assistance of the Assembly of the Towns of <hi>Frankenland,</hi> and to the Lord Bishop of <hi>Wirtsburgh</hi> what danger that the Fortress of <hi>Philipsburgh</hi> is in, and consequently the whole <hi>Creyts</hi> of <hi>Frankenland,</hi> considering what preparation the <hi>French</hi> hath made, and were already in the Martch, with an intent to encamp him from <hi>Hunningen</hi> to <hi>Wormstadt,</hi> with an Army of 30000 Men, in so much that the strengthening of <hi>Philipsburgh</hi> with a considerable assistance of Men and other re<g ref="char:EOLhyphen"/>quisites was to be desired, and that withal speed imaginable, that in case of Attacque he might be able to defend himself so long till he were better supplied by the Emperour and the Diet, or otherwise it were to be fea<g ref="char:EOLhyphen"/>red that the <hi>French</hi> might send a Party of Dragonders over the <hi>Rhyne,</hi> and so hinder all Communication with <hi>Philipsburgh;</hi> whereupon the said Bishop of <hi>Wirtzburgh</hi> in consideration hereof hath added to the <hi>Magazin</hi> of <hi>Philipsburgh</hi> 2000 <hi>Malders</hi> of Corn, whose example was by the other Princes and Towns of the same <hi>Creyts</hi> imi<g ref="char:EOLhyphen"/>tated as well in deed as promise.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Frankfort, <date>May 26.</date>
+                     </dateline>
+                  </opener>
+                  <p>There is a third Memorial presented to the Diet at <hi>Regensburgh,</hi> in behalf of the Earl<g ref="char:EOLhyphen"/>dome of <hi>Mompelgarde,</hi> by way of com<g ref="char:EOLhyphen"/>plaint, at the proceedings of the <hi>French,</hi> in like manner the Duke of <hi>Saxony,</hi> hath given notice to the <hi>Rijcxstenden</hi> how mainly that it did concern every one to have a full apprehension of the danger wherewith not only the Romane Empire was threatned, but also divers other Countrys, with one re<g ref="char:EOLhyphen"/>questing that a full deliberation and resolu<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:37351:2"/>might be made hereupon. We have advise from the Palatinate, that Monsieur <hi>Monclar</hi> had already begun to threaten to take away the new City upon the <hi>Haart</hi> by force, unless the Count <hi>Palatine</hi> do speedi<g ref="char:EOLhyphen"/>ly evacuate the Castle of <hi>Falc<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>enburgh</hi> and deliver it up to the <hi>French.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Stratsburgh, <date>May 27.</date>
+                     </dateline>
+                  </opener>
+                  <p>The <hi>French</hi> flying Leager, under the com<g ref="char:EOLhyphen"/>mand of Monsieur <hi>Monclar</hi> shall stop, at and about <hi>Landauw</hi> and there to remain the whole Summer in Camp, The same being to consist of 6000 Horse, and 4000 Infantry. It is also very frequently reported, that the <hi>French</hi> are purposed to set a Garrison, at <hi>Frankendale</hi> and <hi>Falkenburgh,</hi> and to forti<g ref="char:EOLhyphen"/>fie <hi>Germersheym</hi> and <hi>Spier;</hi> and that a Con<g ref="char:EOLhyphen"/>voy with some Artillery has lately past through <hi>Echolsheym</hi> and <hi>Landauw.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Dupont, <date>May 27.</date>
+                     </dateline>
+                  </opener>
+                  <p>The Bishop of <hi>Mets</hi> is here and Three Thousand <hi>French</hi> arrived at <hi>Landavie.</hi> The affairs of <hi>Philipsburgh</hi> do occasion much dis<g ref="char:EOLhyphen"/>contentedness, by Reason that the <hi>French</hi> do pretend this Fortress, together with the Office of <hi>Ʋdenheym,</hi> to have appendency on <hi>Croon Wey<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tenburgh,</hi> in reference to a Soluble Revenue of 5000. Gilders, which sum they are willing to set against some pre<g ref="char:EOLhyphen"/>tended Contributions. The <hi>French</hi> have summoned the Bishop of <hi>Dupont</hi> to appear within 14 days at <hi>Metz,</hi> and show his Title and Possession of the Fort at <hi>Lichtenbergh,</hi> &amp; the appurtenances thereof, or in default of the same shall be annexed and incorporated to the Bishoprick of <hi>Verdun,</hi> Howbeit the said Castle with its appurtenances has been held above 300. years in quiet Possession without any let or controversy as Feoff, or Copyhold, from the Electoral house of the <hi>Palatinate.</hi> In like manner a Messenger of the <hi>French</hi> by vertue of a Commission▪ hath summoned all the several Princes, Earls, Barons and Nobility, on the Western Side of the <hi>Rhyne,</hi> to <hi>Nancy,</hi> to pay the remain<g ref="char:EOLhyphen"/>ders of their several Contributions, upon pain of Military Execution, for which pur<g ref="char:EOLhyphen"/>pose the Queens Regiment resides at <hi>Hom<g ref="char:EOLhyphen"/>burgh,</hi> which places besides St. <hi>John</hi> by <hi>Sar<g ref="char:EOLhyphen"/>bruck, Saerlouijs,</hi> and more other places are very strongly fortified.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Frankfort, <date>May 30.</date>
+                     </dateline>
+                  </opener>
+                  <p>Whereas the Bishop of <hi>Wirtzburgh,</hi> ha<g ref="char:EOLhyphen"/>ving offered 2000 <hi>Malders</hi> of Corn, to the behoof of the Magasine at <hi>Philipsburgh,</hi> so hath Count <hi>Hohenlohe</hi> desired of the Go<g ref="char:EOLhyphen"/>vernours of this City, that they, at their proper Charges, and for the publick good, would convey the same Corn from <hi>Wirtz<g ref="char:EOLhyphen"/>burgh,</hi> and deliver it at <hi>Philipsburgh;</hi> where<g ref="char:EOLhyphen"/>upon it was granted, that the half of the said Corn should be transmitted to <hi>Philips<g ref="char:EOLhyphen"/>burgh</hi> upon condition that it should be first delivered before this City. The Earl of Waldeck having now about 14 days made use of the Warm bath of Wisbaden, with expecting success, was taken yesterday with a strong fit of an Ague, which held him near<g ref="char:EOLhyphen"/>ly 18 hours, but how it may prove here<g ref="char:EOLhyphen"/>after, Touching the health of his Excellen<g ref="char:EOLhyphen"/>cy, time will show. Letters from <hi>Vienna</hi> do inform us, that within the Circuit of 10 or 12 miles there is no Pestilence at all, but in most of the principal Quarters, of the Imperial Landships, is dayly breaking forth. At Mentz is seen frequently a French Commissary General with a train of divers People, whose affairs are by many very Cu<g ref="char:EOLhyphen"/>riously enquired after.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>LOW-COUNTREYS.</head>
+               <div type="section">
+                  <opener>
+                     <dateline>Hague, <date>June 7.</date>
+                     </dateline>
+                  </opener>
+                  <p>THE States of <hi>Holland</hi> on Saturday last broke up their Assembly, and Their Highnesses the Prince and Princess of <hi>O<g ref="char:EOLhyphen"/>range</hi> are departed hence, towards <hi>Dio<g ref="char:EOLhyphen"/>ren,</hi> and from thence further, and so on to <hi>Breda,</hi> so that here is not any thing worthy of note. The Kings Yatch that is now in the Mase to attend Collonel <hi>Sidney</hi> the English Envoy, is to depart within 2 or 3 dayes. Our last Letters, make mention that His Majesty of Great <hi>Brittaine</hi> is happily re<g ref="char:EOLhyphen"/>stored to his former health, having had a fit of an Ague. This week The States do in<g ref="char:EOLhyphen"/>tend a final Resolution in reference to the Memorial lately delivered them by the <hi>Spa<g ref="char:EOLhyphen"/>nish Envoy,</hi> representing that the Barrier that was offered by the King of <hi>France</hi> was <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>w annihilated and void; As also to the Mini<g ref="char:EOLhyphen"/>ster of the Prince of <hi>Luyck,</hi> so that the De<g ref="char:EOLhyphen"/>bates and Differences concerning <hi>Hasselt</hi> and <hi>Maesyck</hi> may be drawn to some manner of Arbitration. The Papists at <hi>Basselduke</hi> ha<g ref="char:EOLhyphen"/>ving a while ago committed some Insolen<g ref="char:EOLhyphen"/>cies, and made opposition against the Justice; so have the States given Order to the Up<g ref="char:EOLhyphen"/>per-Schout of the same place, to proceed to Banishment of the Priest, and the same to prosecute according to the Ordinance of the Land, without the least Connivancy; And that the said Schout should confiscate the Popish-Church, and place the Atchievment of the Generality upon the Door; and give an account to the States what Ornaments were found in the said Church, with a strict charge to follow those proceedings already begun without any loss of time, against all those who had emboldned themselves to make a Collection for the Priest.</p>
+               </div>
+               <div type="section">
+                  <opener>
+                     <dateline>Rotterdam, <date>June 6.</date>
+                     </dateline>
+                  </opener>
+                  <p>The dismal accident that befell the Pastor <hi>Mees</hi> on <hi>Ascension-day</hi> last we know has been amply discoursed, to wit, his being in great danger of being drowned, besides 5 other persons, which where all that were saved of 9, and that <hi>Melisdijck</hi> was the day following taken up, who was one of the 3 that were drowned; yet this we may present to the curious as new, that this Morning the el<g ref="char:EOLhyphen"/>dest Son of the aforesaid Minister is taken up near <hi>Delfs-haven,</hi> which 'tis probable might have been sooner taken up, as also his Daughter, had it not been such turbulent weather when they were lost. This Eve<g ref="char:EOLhyphen"/>ning is to be interred the Body of the Vice-Admiral <hi>Jan van Nes</hi> with great Solemnity, whose death is very much lamented here.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Rotterdam,</hi> Printed by <hi>Goddaeus,</hi> June 7. <hi>N. Stylo,</hi> 1680. &amp; Reprinted at <hi>London</hi> by <hi>B. Harris</hi> at the <hi>Royal-Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
